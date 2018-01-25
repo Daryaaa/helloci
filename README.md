@@ -1,4 +1,5 @@
 helloci
+Darya Hulevich training jenkins, eeeeeeee
 =======
 
 Test projects for Git training
